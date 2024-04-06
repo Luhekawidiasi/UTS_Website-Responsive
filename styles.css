@@ -5,9 +5,9 @@
   }
   
   header {
-    background-color: #333;
-    color: #fff;
-    padding: 1rem;
+    background-color: #7cc452;
+    color: #e08080;
+    padding: 2rem;
   }
   
   nav ul {
@@ -16,12 +16,12 @@
   }
   
   nav ul li {
-    margin-right: 1rem;
+    margin-right: 2rem;
   }
   
   nav ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #c4f4fa;
   }
   
   .intro {
@@ -36,21 +36,4 @@
     padding: 1rem;
   }
 
-@media (max-width: 600px) {
-    body {
-      flex-direction: column;
-    }
-  }
-  
-  @media (min-width: 900px) {
-    body {
-      flex-direction: row;
-    }
-  }
-  
-  .container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
-  }
-  
+ 
