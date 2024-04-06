@@ -6,7 +6,7 @@
   
   header {
     background-color: #7cc452;
-    color: #e08080;
+    color: #130606;
     padding: 20px;
   }
   
@@ -49,12 +49,12 @@
   
  .intro, .news, .events {
   padding: 20px;
-  background-color: hsl(0, 0%, 100%);
+  background-color: hsl(106, 74%, 82%);
 }
 
 footer {
   background-color: #333;
-  color: #fff;
+  color: #aef16f;
   text-align: center;
   padding: 1rem;
 }
